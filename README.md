@@ -5,5 +5,6 @@
 
 Here are some ideas to get you started:
 
-![lmh77's github stats](https://github-readme-stats.vercel.app/api?username=lmh77&theme=radical) 
+![lmh77's github stats](https://github-readme-stats.vercel.app/api?username=lmh77&show_icons=true&theme=radical)
+
 -->
